@@ -28,7 +28,7 @@ class CourseSeeder extends Seeder
         ];
 
         foreach ($courses as $course) {
-            
+
         }
     }
 }
